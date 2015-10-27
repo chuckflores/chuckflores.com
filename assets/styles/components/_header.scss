@@ -1,0 +1,22 @@
+header {
+  margin-top: 1em;
+  @include span-columns(12);
+}
+
+h1 {
+  color: $chuck-flores-orange;
+  font-family: 'montserratlight';
+  text-transform: uppercase;
+  font-size: 3em;
+  text-align: center;
+  margin-bottom: 0;
+  line-height: 1.6em;
+  @include media($mobile) {
+    font-size: 2.6em;
+  }
+  @include media($mobile-small) {
+    font-size: 2.3em;
+  }
+}
+
+
