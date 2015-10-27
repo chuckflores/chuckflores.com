@@ -176,6 +176,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/sketches\/sketches-sketch-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95202,
+		"inputAbbreviatedPath": "\/assets\/images\/sketches\/sketches-sketch-1.png",
+		"outputAbbreviatedPath": "\/assets\/images\/sketches\/sketches-sketch-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/styles\/base\/_base.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,

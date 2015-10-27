@@ -6,7 +6,39 @@
  * MIT Licensed.
 **/
 
+#pen-paper-lightbox {
 
+}
+
+.third-lightbox {
+  width: 100%;
+}
+
+.third-lightbox_right {
+  float: left;
+  width: 33%;
+  display: inline-block;
+  @include media($mobile,$mobile-small) {
+    width: 100%;
+    display: block;
+  }
+}
+
+.third-lightbox_left {
+  float: right;
+  width: 66%;
+  text-align: center;
+  @include media($mobile,$mobile-small) {
+    margin-top: 2em;
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+
+  img {
+    height: 360px;
+  }
+}
 
 @media all {
 	.featherlight-next,
