@@ -49,11 +49,11 @@ body {
 }
 
 .w-intro_tools {
+  background-color: $base-background-color;
   @include span-columns(12 of 12);
   @include media($mobile) {
     margin-top: 4em;
   }
-  background-color: $base-background-color;
   margin-top: 8em;
   text-align: center;
 }
@@ -61,8 +61,6 @@ body {
 .w-intro_tools__title {
   @include span-columns(8 of 12);
   @include shift(2);
-
-
   @include media($mobile) {
     @include span-columns(10 of 12);
     @include shift(1);

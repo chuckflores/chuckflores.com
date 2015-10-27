@@ -119,7 +119,10 @@
   $grid-item-big-columns: 8;
   $grid-item-color: $base-font-color;
   $grid-item-height: 10em;
-  margin-top: 4em;
+  margin-top: 12em;
+  @include media($mobile) {
+    margin-top: 14em;
+  }
   background-color: transparentize($chuck-flores-orange, 0.6);
 
   @include clearfix;
