@@ -2058,7 +2058,7 @@
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/styles\/styles.scss": {
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
