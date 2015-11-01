@@ -1,0 +1,62 @@
+
+.i-tool-illustrator {
+  max-width: 320px;
+  max-height: 172px;
+}
+
+// OkMyOutfit
+.i-o_user-journey {
+  margin-top: 2em;
+}
+
+.i-o_style-assessment {
+  margin-top: 4em;
+  box-shadow: 0px 4px 6px 0px #808080;
+}
+
+.i-o_home-page-full {
+  margin-top: 2em;
+}
+
+.i-o_question-1 {
+  margin-top: 2em;
+}
+
+.i-ok-redesign-question {
+  // @include media($mobile,$mobile-small) {
+  //   @include span-columns(12 of 12);
+  //   @include shift(1);
+  //   text-align: center;
+  // }
+}
+
+
+// Trail Brief
+.i-project-intro-large-screen {
+  @include media($mobile,$mobile-small) {
+    display: none;
+  }
+}
+
+.i-project-intro-mobile-screen {
+  display: none;
+  @include media($mobile,$mobile-small) {
+    display: inline-block;
+  }
+}
+
+.i-trail-brief-wireframes {
+  margin-top: 2em;
+}
+
+.trail-brief-annotation-1 {
+  margin-top: 2em;
+}
+
+// // Prototype iframe
+.trail-brief-prototype {
+  width: 396px;
+  height: 858px;
+}
+
+

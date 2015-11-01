@@ -4,7 +4,7 @@
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  margin: 0 auto -4em;
+  margin: 0 auto 4em;
 }
 
 html, body {
@@ -21,7 +21,11 @@ html, body {
 
   @include media($large-screen) {
     // height: 4em;
-    margin-bottom: -0.4em;
+    margin-bottom: -4em;
+  }
+
+  @include media($mobile,$mobile-small) {
+    margin-bottom: -4em;
   }
 }
 
@@ -41,7 +45,7 @@ html, body {
   padding: $base-spacing;
   width: 100%;
   display: inline-block;
-  margin-top: 12em;
+  margin-top: 0em;
   @include media($mobile,$mobile-small) {
     margin-top: 0em;
   }

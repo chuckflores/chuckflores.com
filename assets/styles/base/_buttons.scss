@@ -1,6 +1,6 @@
 #{$all-buttons} {
   appearance: none;
-  background-color: $action-color;
+  background-color: $chuck-flores-dark-grey;
   border: 0;
   border-radius: $base-border-radius;
   color: #fff;
@@ -20,7 +20,7 @@
 
   &:hover,
   &:focus {
-    background-color: shade($action-color, 20%);
+    background-color: shade($chuck-flores-dark-grey, 20%);
     color: #fff;
   }
 
@@ -29,7 +29,15 @@
     opacity: 0.5;
 
     &:hover {
-      background-color: $action-color;
+      background-color: $chuck-flores-dark-grey;
     }
   }
+}
+
+.button-contact {
+  margin-top: 2em;
+}
+
+.button-prototype {
+  margin-top: 2em;
 }

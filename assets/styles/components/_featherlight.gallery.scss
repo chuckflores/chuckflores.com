@@ -38,6 +38,14 @@
   img {
     height: 360px;
   }
+
+  .img-tools-application {
+    height: 540px;;
+    @include media($mobile,$mobile-small) {
+      height: 100%;
+      width: 100%;
+    }
+  }
 }
 
 @media all {
