@@ -346,6 +346,29 @@ body {
       .w-intro_sub-description:last-child {
         margin-right: 0; } }
 
+.w-intro_email {
+  float: left;
+  display: block;
+  margin-right: 2.3576515979%;
+  width: 48.821174201%;
+  margin-left: 25.5894128995%;
+  margin-top: 0em;
+  margin-bottom: 8em;
+  text-align: center; }
+  .w-intro_email:last-child {
+    margin-right: 0; }
+  @media screen and (max-width: 500px) {
+    .w-intro_email {
+      float: left;
+      display: block;
+      margin-right: 2.3576515979%;
+      width: 82.9403914003%;
+      margin-left: 8.5298042998%;
+      text-align: left;
+      margin-top: 4em; }
+      .w-intro_email:last-child {
+        margin-right: 0; } }
+
 .w-intro_tools {
   background-color: #FDF9F2;
   float: left;
