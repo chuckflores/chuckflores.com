@@ -20,7 +20,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-design.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/apple-tv\/apple-tv-netflix.png": {
 		"fileType": 32768,
@@ -31,7 +31,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-netflix.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/apple-tv\/apple-tv-vimeo.png": {
 		"fileType": 32768,
@@ -42,7 +42,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-vimeo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/apple-tv\/title-apple-tv.png": {
 		"fileType": 32768,
@@ -53,7 +53,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/title-apple-tv.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/icons\/applications\/icon-application-css-sass.png": {
 		"fileType": 32768,
@@ -213,7 +213,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1858,
+		"initialSize": 1855,
 		"inputAbbreviatedPath": "\/assets\/images\/icons\/social\/icon-social-linkedin.png",
 		"outputAbbreviatedPath": "\/assets\/images\/icons\/social\/icon-social-linkedin.png",
 		"outputPathIsOutsideProject": 0,
@@ -273,7 +273,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.html": {
 		"fileType": 8192,
@@ -293,7 +293,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1@2x.jpg": {
 		"fileType": 16384,
@@ -304,7 +304,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer.png": {
 		"fileType": 32768,
@@ -315,7 +315,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer@2x.png": {
 		"fileType": 32768,
@@ -326,7 +326,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/HYPE-466.full.min.js": {
 		"fileType": 64,
@@ -425,7 +425,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/title-okmyoutfit.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/projects\/project-apple-tv-4.png": {
 		"fileType": 32768,
@@ -436,7 +436,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-apple-tv-4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/projects\/project-newscycle.png": {
 		"fileType": 32768,
@@ -447,7 +447,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-newscycle.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/projects\/project-okmyoutfit.png": {
 		"fileType": 32768,
@@ -458,7 +458,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-okmyoutfit.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/projects\/project-trail-brief.png": {
 		"fileType": 32768,
@@ -469,7 +469,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-trail-brief.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/sketches\/sketches-sketch-1.png": {
 		"fileType": 32768,
@@ -546,7 +546,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-iteration-annotation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/trail-brief\/trail-brief-mock-up-landing.png": {
 		"fileType": 32768,
@@ -557,7 +557,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-mock-up-landing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/trail-brief\/trail-brief-persona-megan.png": {
 		"fileType": 32768,
@@ -568,7 +568,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-persona-megan.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/trail-brief\/trail-brief-task-analysis-1.png": {
 		"fileType": 32768,
@@ -579,7 +579,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/trail-brief\/trail-brief-task-analysis-2.png": {
 		"fileType": 32768,
@@ -590,7 +590,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/trail-brief\/trail-brief-task-analysis-3.png": {
 		"fileType": 32768,
@@ -601,7 +601,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/trail-brief\/trail-brief-tip-iteration-screen.png": {
 		"fileType": 32768,
@@ -612,7 +612,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-tip-iteration-screen.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/trail-brief\/trail-brief-wireframes.png": {
 		"fileType": 32768,
@@ -623,7 +623,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-wireframes.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/js\/hamburgler.js": {
 		"fileType": 64,
@@ -2652,8 +2652,8 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "chuckflores.com",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "chuckflores",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_darkGray"
 	},
 "projectSettings": {
