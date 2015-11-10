@@ -1,23 +1,33 @@
 header {
-  margin-top: 1em;
-  @include span-columns(12);
+  width: 100%;
+  background-color: $blue;
+  height: $header-height;
+  position: fixed;
+  z-index: 900
 }
 
-h1 {
-  color: $chuck-flores-orange;
-  font-family: 'montserratlight';
-  text-transform: uppercase;
+.header__container {
+  @include outer-container;
+  display: flex;
+  justify-content: space-between;
+}
 
-  font-size: 3em;
-  text-align: center;
-  margin-bottom: 0;
-  line-height: 1.6em;
-  @include media($mobile) {
-    font-size: 2.6em;
-  }
-  @include media($mobile-small) {
-    font-size: 2.2em;
+.header__container--logo {
+  // margin-top: 2.2em;
+  padding-top: 2em;
+
+  @include media($mobile,$mobile-small) {
+    padding-left: 1em;
   }
 }
 
+h5,h6 {
+  display: inline;
+}
 
+h6 {
+  @include media($mobile,$mobile-small) {
+    display: none;
+  }
+  margin-left: 0.1em;
+}

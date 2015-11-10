@@ -1,6 +1,6 @@
 #{$all-buttons} {
   appearance: none;
-  background-color: $chuck-flores-dark-grey;
+  background-color: $blue;
   border: 0;
   border-radius: $base-border-radius;
   color: #fff;
@@ -17,10 +17,11 @@
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
+  text-align: center;
 
   &:hover,
   &:focus {
-    background-color: shade($chuck-flores-dark-grey, 20%);
+    background-color: shade($blue, 20%);
     color: #fff;
   }
 
@@ -40,4 +41,24 @@
 
 .button-prototype {
   margin-top: 2em;
+}
+
+.button-new {
+
+}
+
+.button-new_container {
+
+}
+
+.button-new {
+  border: 2px solid $chuck-flores-dark-grey;
+  width: 160px;
+  opacity: 1;
+  padding: 4px;
+  transition: opacity $base-duration $base-timing;
+}
+
+.button-new:hover {
+  opacity: 0;
 }

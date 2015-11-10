@@ -1,3 +1,10 @@
+// Font Weights:
+// Neuzeit light :: 300
+// Neuzeit regular :: 400
+// Neuzeit bold :: 700
+// Neuzeit black :: 900
+// Cardo bold :: 700
+
 body {
   color: $base-font-color;
   font-family: $base-font-family;
@@ -6,61 +13,135 @@ body {
   line-height: $base-line-height;
 }
 
-h1,
-h2,
+::selection {
+  background-color: $blue;
+  color: $light-gray;
+}
+
+// Logo
+h5, h6 {
+  color: $white;
+  font-size: 1.6em;
+
+}
+
+h5 {
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+h6 {
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+h6.title-subtitle {
+  color: transparentize($light-gray, 0.1);
+  font-size: 1.16em;
+  font-size: 300;
+  letter-spacing: 0.08em;
+}
+
+h1 {
+  color: $light-gray;
+  font-family: 'Cardo', serif;
+  font-size: 2.8em;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0.2em;
+}
+
+.h1-home--white {
+  text-align: right;
+  font-size: 2.1em;
+  line-height: 1.6em;
+  margin-top: 0;
+}
+
+h2 {
+  color: $dark-gray;
+  font-size: 1.8em;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 1.3;
+  margin-bottom: 0.5em;
+}
+
+h2.quote {
+  display: inline;
+  font-size: 2.76em;
+  margin-left: -.6em;
+  line-height: 1.2em;
+}
+
+h2.quote-after {
+  display: inline;
+  font-size: 2.76em;
+  line-height: 1.2em;
+  margin-left: 0;
+  margin-bottom: 2em;
+}
+
+.h2-white {
+  color: $white;
+}
+
+h3 {
+  color: $blue;
+  font-size: 2em;
+  margin-top: 0em;
+  line-height: 1em;
+}
+
+h4 {
+  color: $blue;
+  font-size: 1.158em;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0.11em;
+  line-height: 1.4em;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.h4-white {
+    color: $white;
+  }
+
+
+.text-white, .text-info-1, .text-info-2 {
+  margin: 0;
+  color: $white;
+  }
+
 h3,
 h4,
 h5,
 h6 {
   font-family: $heading-font-family;
   // font-size: $base-font-size;
-  line-height: $heading-line-height;
-  margin: 0 0 $small-spacing;
+  // line-height: $heading-line-height;
+  // margin: 0 0 $small-spacing;
 }
 
-h2 {
-  font-family: 'montserratbold';
-  font-size: 2em;
-  line-height: 1.6em;
-  @include media($mobile-small) {
-    font-size: 1.6em;
-  }
-}
 
-h3 {
-  color: $chuck-flores-orange;
-  font-family: 'montserratultra_light';
-  font-size: 1.8em;
-  line-height: 2em;
-  margin-bottom: 0em;
-}
-
-.h3-alternate {
-    color: $chuck-flores-dark-grey !important;
-    font-family: 'montserratlight';
-}
-
-.h3-alternate-cream {
-  color: $chuck-flores-cream !important;
-  font-family: 'montserratultra_light';
-}
-
-h4 {
-  color: $chuck-flores-dark-grey;
-  font-family: 'montserratultra_light';
-  font-size: 1.2em;
-}
-
-.h4-alternate {
-  color: $chuck-flores-cream !important;
-}
 
 p {
-  margin: 0 0 $small-spacing;
-  line-height: 1.8em;
-  @include media($mobile,$mobile-small) {
-    line-height: 1.8em;
-  }
+  color: $dark-teal;
+  font-family: $base-font-family;
+  font-size: 1.158em;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.6em;
+  opacity: 0.85;
+}
+
+.p-white {
+  color: $white;
 }
 
 a {
@@ -73,6 +154,16 @@ a {
   &:hover {
     color: shade($action-color, 25%);
   }
+}
+
+.mobilenav li a{
+  color: transparentize($white, 0.2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mobilenav li a:hover {
+  color: $white;
 }
 
 hr {
@@ -89,11 +180,27 @@ picture {
   max-width: 100%;
 }
 
-.details-li {
-  list-style-type: square;
-  padding-left: 2.4em;
+// .details-li {
+//   list-style-type: square;
+//   padding-left: 2.4em;
+// }
+
+// .details-li li{
+//   margin-bottom: 1.4em;
+// }
+
+.details__info--body--stats ul li {
+  font-size: 1.158em;
 }
 
-.details-li li{
-  margin-bottom: 1.4em;
+.details__info--body--list ul li {
+  font-size: 1.158em;
+}
+
+button {
+  font-size: 1.158em;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }

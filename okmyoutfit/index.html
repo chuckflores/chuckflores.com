@@ -8,133 +8,249 @@
   <meta name="description" content="Chuck Flores. UX Designer">
 
   <link rel="stylesheet" href="../assets/styles/styles.css">
+  <link rel="stylesheet" href="../assets/styles/hamburgler.css">
+  <link href='https://fonts.googleapis.com/css?family=Cardo:700' rel='stylesheet' type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://use.typekit.net/xvp5uvh.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <script src="../assets/js/hamburgler.js"> </script>
 </head>
 
 <body>
-  <div class="w-outer-container">
     <header>
-      <a href="../" style="text-decoration:none;"><h1>Chuck Flores</h1></a>
-      <h1 class="u-sublogo">User Experience <span class="u-sublogo_light">Designer</span></h1>
+      <div class="header__container">
+        <div class="header__container--logo">
+          <a href="../" style="text-decoration:none;"><h5>Chuck Flores</h5></a>
+          <h6>ux designer</h6>
+        </div>
+
+        <nav>
+          <div class="mobilenav">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="index.html">OkMyOutfit</a></li>
+            <li><a href="../trail-brief/prototype.html">Trail Brief</a></li>
+            <li><a href="../apple-tv/index.html">Apple TV</a></li>
+<!--            <li><a href="#">Work</a></li>
+            <li><a href="#">Tools</a></li> -->
+            <li><a href="resume/Chuck_Flores-Resume.pdf" target="new">Resume</a></li>
+            <li><a href="mailto:chuck.e.flores@gmail.com">Contact</a></li>
+          </div>
+
+          <a href="javascript:void(0)" class="icon">
+            <div class="hamburger">
+            <div class="menui top-menu"></div>
+            <div class="menui mid-menu"></div>
+            <div class="menui bottom-menu"></div>
+            </div>
+          </a>
+        </nav>
+      </div>
     </header>
+    <div class="w-header-spacer"></div>
 
-    <div class="w-content-container">
+    <div class="w-title">
+      <div class="title__img">
+        <div class="title__img--background"></div>
+      </div>
+      <div class="title__description">
+        <div class="title__description--body">
+          <h1>OkMyOutfit</h1>
+          <h6 class="title-subtitle">On-Boarding & Home Page Optimization</h6>
+        </div>
+      </div>
+    </div>
 
-      <div class="w-project_introduction">
-        <div class="w-project-introduction_container">
-          <div class="w-project-intro-left">
-            <h2>OkMyOutfit</h2>
-            <h3 class="h3-alternate">Problem</h3>
-            <p>OkMyOutfit is an on-demand personal styling service offering unlimited stylist appointments for a monthly fee. Their current on-boarding process was very long taking users on average 10 mins to complete. In addition their homepage didn't clear describe the service to visitors.</p>
-            <h4>Project Details:</h4>
-            <ul class="details-li">
-              <li>3 Team Members</li>
-              <li>Timeline: 3 Weeks</li>
-            </ul>
+    <div class="w-details">
+      <div class="w-details__overview">
+        <div class="p-details__overview--body">
+          <h2>OkMyOutfit is an on-demand personal styling service offering unlimited stylist appointments for a monthly fee.</h2>
+          <div class="l-details__overview--body--line-blue"></div>
+          <h4>Problem</h4>
+          <p>Their current on-boarding process was very long, taking users on average 10 mins to complete. In addition to a confusing on-boarding questionaire, their homepage didn't clearly describe the service to visitors.</p>
+          <a href=""><button>Research Report</button></a>
+        </div>
+      </div>
+      <div class="w-details__info">
+        <div class="p-details__info--body">
+          <div class="details__info--body--stats">
+            <h4 class="text-info-1">Timeline</h4><h4 class="text-info-2">Team Members</h4>
           </div>
-          <div class="w-project-intro-right">
-            <img src="../assets/images/okmyoutfit/okmyoutfit-mockup-1-homepage.png">
+
+          <div class="l-details__info--body--line-white"></div>
+
+          <div class="details__info--body--list list-last">
+            <div class="text-list-left">
+              <ul class="details-stats-left">
+                <li class="text-white">3 Weeks</li>
+              </ul>
+            </div>
+            <div class="text-list-right">
+              <ul class="details-stats-right">
+                <li class="text-white">3 Members</li>
+              </ul>
+            </div>
           </div>
-        </div>
-      </div>
-
-      <div class="w-project_section__center">
-        <div class="w-project__frame">
-          <h3>User Journey</h3>
-          <p>We tested the current sign up process with potential users to discover pain points throughout the style profile. While testing we periodically asked users how they felt. We created user journeys to visualize the results from our usability test to the client. Below is one of our user journey.</p>
-          <img src="../assets/images/okmyoutfit/okmyoutfit-user-journey.png" class="i-o_user-journey">
-        </div>
-      </div>
-
-      <div class="w-project_section__orange-center">
-        <div class="w-project__frame__quote-block">
-          <h3 class="h3-alternate-cream">"Shouldn’t a stylist meet me to take my measurements?"</h3>
-        </div>
-      </div>
-
-      <div class="w-project_section__center">
-        <div class="w-project__frame">
-          <h3>Yes! Redesigning the Initial Sign Up</h3>
-          <p>Through user interviews and tests my team discovered that users wanted the stylist to take their measurements at the first visit. This lead to giving the user the option of completing the sign up form or requesting in-home measurements and style assessment.</p>
-          <img src="../assets/images/okmyoutfit/okmyoutfit-style-assessment.png" class="i-o_style-assessment">
-        </div>
-      </div>
-
-      <div class="w-project_section__orange-center">
-        <div class="w-project-section_container">
-          <div class="w-project__frame">
-            <h3 class="u-ok-landing-center">Landing Page Redesign</h3>
-            <!-- <p>Type a description of the process here. It can be lengthy or a short snippet. I prefer a short snippet to grabb people in and not read so much like so.</p> -->
-            <img src="../assets/images/okmyoutfit/okmyoutfit-home-page-full.png" class="i-o_home-page-full">
+          <div class="details__info--body--stats">
+            <h4 class="text-info-1">My Role</h4><h4 class="text-info-2">Deliverables</h4>
           </div>
-        </div>
-      </div>
-
-      <div class="w-project_section__center">
-        <div class="w-project__frame">
-          <h3>On-Boarding Process</h3>
-          <p>Our redesign of the style profile questionaire consisted of and addition of a top progress bar, stronger copy, secondary copy for clarification, and improved overall visual design.</p>
-          <img src="../assets/images/okmyoutfit/okmyoutfit-question-1.png" class="i-o_question-1">
-        </div>
-      </div>
-
-      <div class="w-project_introduction">
-        <div class="w-project-section_double-container">
-          <div class="w-project__frame">
-            <h3 class="h3-alternate">POSITIVE & ENGAGING QUESTIONS</h3>
-            <p>We redesigned the style profile questions to be clear in their language and promote positive body image. Additionally we supplemented the questions with a secondary copy. This clarified the question and told the user why the information is needed.</p>
-          </div>
-          <div class="w-project-column-left">
-            <h4 class="h4-alternate">Original</h4>
-            <img src="../assets/images/okmyoutfit/okmyoutfit-original-question-1.png">
-          </div>
-          <div class="w-project-column-right">
-            <h4 class="h4-alternate">Redesign</h4>
-            <img src="../assets/images/okmyoutfit/okmyoutfit-redesigned-question-1.png" class="i-ok-redesign-question">
+          <div class="l-details__info--body--line-white"></div>
+          <div class="details__info--body--list stats-last">
+            <div class="text-list-left">
+              <ul class="details-stats-left">
+                <li class="text-white">Primary Client Contact</li>
+                <li class="text-white">User Interviews</li>
+                <li class="text-white">Research</li>
+                <li class="text-white">Visual Design</li>
+                <li class="text-white">Prototype Construction</li>
+                <li class="text-white">Usability Tests</li>
+              </ul>
+            </div>
+            <div class="text-list-right">
+              <ul class="details-stats-right">
+                <li class="text-white">Research Report</li>
+                <li class="text-white">Personas</li>
+                <li class="text-white">Wireframes</li>
+                <li class="text-white">Planning Docs</li>
+                <li class="text-white">Style Guide</li>
+                <li class="text-white">Production Assets</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
+    </div>
 
-      <div class="w-project_section__center">
-        <div class="w-project__frame">
-          <h3>Have more questions about my designs or process?</h3>
-          <a href="mailto:chuck.e.flores@gmail.com"><button class="button-contact">Contact Me</button></a>
+    <div class="w-block-1">
+      <div class="w-block-1__right--body">
+        <div class="p-block-1__right--text">
+          <div class="l-body-line-blue--3"></div>
+          <div class="p-block-1__body--placement">
+            <h4>User Journey</h4>
+            <p>While testing the current sign up process with potential users to discover pain points throughout the style profile. Throughout the test users wereperiodically asked how they felt on a scale of 1 (being frustrated) to 10 (feeling happy). User journeys were created to visualize the results from our usability test to the client. Below are 3 user journeys.</p>
+          </div>
+        </div>
+        <div class="p-block-1__diagram">
+          <div class="p-block-1__diagram--label">
+            <h4 class="text-info-1">Start</h4>
+            <h4 class="text-info-1">Middle</h4>
+            <h4 class="text-info-1">End</h4>
+          </div>
+          <img src="../assets/images/okmyoutfit/okmyoutfit-user-journey.png">
         </div>
       </div>
+    </div>
 
+    <div class="w-block-2">
+      <div class="p-block-2__body--quote">
+        <h4>User Test Participant</h4>
+        <h2 class="quote">&ldquo;</h2>
+        <h2 class="quote-after">SHOULDN’T A STYLIST MEET ME TO TAKE MY MEASUREMENTS&rdquo;</h2>
+        <div class="l-details__overview--body--line-blue l-quote"></div>
+      </div>
+    </div>
+
+    <div class="w-block-3">
+      <div class="p-block-3__container">
+        <div class="p-block-3__container--body">
+          <h2>YES!</h2>
+          <div class="l-details__overview--body--line-blue"></div>
+          <h4>Changing The Service</h4>
+          <p>After user interviews and tests it was discovered that users wanted the stylist to take their measurements at the first visit. This lead to giving the user the option of requesting in-home measurements and style assessment or completing the sign up form and trying on cloths the first visit.</p>
+        </div>
+        <div class="p-block-3__container--img">
+          <img src="../assets/images/okmyoutfit/okmyoutfit-style-assessment.png">
+        </div>
+      </div>
+    </div>
+
+    <div class="w-block-4">
+      <div class="w-block-4__right">
+        <div class="w-block-4__right--body">
+          <div class="p-block-4__right--text">
+            <div class="l-body-line-blue--3"></div>
+            <div class="p-block-4__body--placement">
+              <h4>POSITIVE & ENGAGING QUESTIONS</h4>
+              <p>We redesigned the style profile questions to be clear in their language and promote positive body image. Additionally we supplemented the questions with a secondary copy. This clarified the question and told the user why the information is needed.</p>
+            </div>
+          </div>
+          <div class="p-block-4__img--container">
+            <h4>Original</h4>
+            <img src="../assets/images/okmyoutfit/okmyoutfit-question-original.png" class="i-ok-q">
+          </div>
+        </div>
+      </div>
+      <div class="w-block-4__left">
+        <div class="p-block-4__img--container">
+          <h4>Redesign</h4>
+          <img src="../assets/images/okmyoutfit/okmyoutfit-question-redesign.png" class="i-ok-q">
+        </div>
+      </div>
+    </div>
+
+    <div class="w-block-5">
+      <div class="p-block-5__container">
+        <div class="p-block-5__container--body">
+          <h2 class="h2-white">UI Improvements</h2>
+          <div class="l-details__overview--body--line-white"></div>
+          <h4 class="h4-white">Progress Bar</h4>
+          <p class="p-white">Our redesign of the style profile questionaire consisted of and addition of a top progress bar, stronger copy, secondary copy for clarification, and improved overall visual design.</p>
+        </div>
+        <div class="p-block-5__container--img">
+          <img src="../assets/images/okmyoutfit/okmyoutfit-question-colors.png" class="i-ok-q">
+        </div>
+      </div>
+    </div>
+
+    <div class="w-block-6">
+      <div class="p-block-6__container">
+        <h4>Homepage Design</h4>
+        <!-- <div id="okmyoutfithomepage_hype_container" style="margin:auto;position:relative;width:713px;height:402px;overflow:hidden;" aria-live="polite">
+        <script type="text/javascript" charset="utf-8" src="../assets/images/okmyoutfit/okmyoutfit-home-page/okmyoutfit-home-page.hyperesources/okmyoutfithomepage_hype_generated_script.js?50231"></script>
+        </div> -->
+        <!-- <img src="../assets/images/okmyoutfit/okmyoutfit-home-page.gif"> -->
+        <img src="../assets/images/okmyoutfit/okmyoutfit-home-page.png">
+        <a href="https://invis.io/6V4VQFJQE" target="new"><p>View Full Screen Protoype</p></a>
+      </div>
+    </div>
+
+    <div class="w-project-end">
+      <div class="w-project-end__left">
+        <a href="../trail-brief/prototype.html"><h4 class="h4-white">View Next Project ></h4></a>
+      </div>
+      <div class="w-project-end__right">
+        <h4>Want to Learn More</h4>
+        <a href="mailto:chuck.e.flores@gmail.com"><button>Contact Me</button></a>
+      </div>
     </div>
 
     <!-- Footer -->
-    <div class="wrapper-for-content-outside-of-footer">
-      <footer class="footer-2" role="contentinfo">
-        <div class="footer-logo">
-          <!-- <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo image"> -->
-        </div>
-          <ul>
-            <li><a href="../index.html">Home</a></li>
-            <li><a href="../resume/Chuck_Flores-Resume.pdf" target="new">Resume</a></li>
-            <li><a href="../Chuck_Flores-UX_Portfolio.pdf" target="new">Portfolio</a></li>
-            <li><a href="mailto:chuck.e.flores@gmail.com" target="new">Contact</a></li>
+    <footer class="footer-2" role="contentinfo">
+      <div class="footer-logo">
+      </div>
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <!-- <li><a href="../index.html">Work</a></li>
+          <li><a href="../index.html">Tools</a></li> -->
+          <li><a href="resume/Chuck_Flores-Resume.pdf" target="new">Resume</a></li>
+          <li><a href="Chuck_Flores-UX_Portfolio.pdf" target="new">Portfolio</a></li>
+          <li><a href="mailto:chuck.e.flores@gmail.com" target="new">Contact</a></li>
+
+        </ul>
+
+        <div class="footer-secondary-links">
+          <ul class="footer-social">
+            <li><a href="https://www.linkedin.com/in/chuckflores" target="new">
+              <img src="../assets/images/icons/social/icon-social-linkedin.png" alt="LinkedIn">
+              </a></li>
+            <li><a href="https://dribbble.com/chuckflores" target="new">
+              <img src="../assets/images/icons/social/icon-social-dribbble.png" alt="Dribbble">
+            </a></li>
+            <li><a href="https://twitter.com/chuck_flores" target="new">
+              <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/twitter-logo-circle.png" alt="Twitter">
+            </a></li>
           </ul>
-
-          <div class="footer-secondary-links">
-            <ul class="footer-social">
-              <li><a href="https://www.linkedin.com/in/chuckflores">
-                <img src="assets/images/icons/social/icon-social-linkedin.png" alt="LinkedIn">
-                </a></li>
-              <li><a href="https://twitter.com/chuck_flores" target="new">
-                <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/twitter-logo-circle.png" alt="Twitter">
-              </a></li>
-              <li><a href="https://dribbble.com/chuckflores" target="new">
-                <img src="assets/images/icons/social/icon-social-dribbble.png" alt="dribbble">
-              </a></li>
-            </ul>
-          </div>
-      </footer>
-    </div>
-  </div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.4/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
-
+        </div>
+    </footer>
 </body>
 </html>
