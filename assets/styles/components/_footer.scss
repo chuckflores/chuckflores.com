@@ -1,0 +1,47 @@
+footer {
+  background-color: $dark-gray;
+  width: 100%;
+  padding-top: 5em;
+  padding-bottom:6em;
+  a {
+    color: $white;
+    font-size: 0.8em;
+    letter-spacing: 3px;
+  }
+
+  .footer-left {
+    display: inline;
+    float: left;
+    a {
+    margin-left: 1em;
+    }
+  }
+  .footer-right {
+    display: inline;
+    float: right;
+    a {
+      margin-right: 1em;
+    }
+  }
+}
+
+
+@media only screen and (max-width: 780px) {
+  footer {
+    padding-bottom:12em;
+  }
+
+  .footer-right {
+    padding-top: 2em;
+    padding-bottom: 4em;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .footer-right {
+    float: left;
+    a {
+      marign-left: 1em;
+    }
+  }
+}

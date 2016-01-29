@@ -1,265 +1,58 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19076",
+"creatorBuild": "19102",
 "files": {
-	"\/apple-tv\/index.html": {
-		"fileType": 8192,
+	"\/assets\/images\/home\/home-hero.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/apple-tv\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/images\/apple-tv\/apple-tv-design.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 396656,
-		"inputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-design.png",
-		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-design.png",
+		"initialSize": 400787,
+		"inputAbbreviatedPath": "\/assets\/images\/home\/home-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/home\/home-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/apple-tv\/apple-tv-netflix.png": {
+	"\/assets\/images\/home\/home-okmyoutfit.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 200935,
-		"inputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-netflix.png",
-		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-netflix.png",
+		"initialSize": 187347,
+		"inputAbbreviatedPath": "\/assets\/images\/home\/home-okmyoutfit.png",
+		"outputAbbreviatedPath": "\/assets\/images\/home\/home-okmyoutfit.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/apple-tv\/apple-tv-vimeo.png": {
+	"\/assets\/images\/home\/home-trail-brief.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 70770,
-		"inputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-vimeo.png",
-		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/apple-tv-vimeo.png",
+		"initialSize": 67064,
+		"inputAbbreviatedPath": "\/assets\/images\/home\/home-trail-brief.png",
+		"outputAbbreviatedPath": "\/assets\/images\/home\/home-trail-brief.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/apple-tv\/title-apple-tv.png": {
+	"\/assets\/images\/home\/home-umi-kitchen.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 305181,
-		"inputAbbreviatedPath": "\/assets\/images\/apple-tv\/title-apple-tv.png",
-		"outputAbbreviatedPath": "\/assets\/images\/apple-tv\/title-apple-tv.png",
+		"initialSize": 138470,
+		"inputAbbreviatedPath": "\/assets\/images\/home\/home-umi-kitchen.png",
+		"outputAbbreviatedPath": "\/assets\/images\/home\/home-umi-kitchen.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/icons\/applications\/icon-application-css-sass.png": {
-		"fileType": 32768,
+	"\/assets\/images\/okmyoutfit\/okmyoutfit-appointment.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2319,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-css-sass.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-css-sass.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-html5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1935,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-html5.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-html5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-hype.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3208,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-hype.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-hype.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-illustrator.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2172,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-illustrator.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-illustrator.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-invision.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 931,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-invision.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-invision.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-omnigraffle.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2590,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-omnigraffle.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-omnigraffle.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-photoshop.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1970,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-photoshop.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-photoshop.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-pop.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1465,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-pop.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-pop.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-sketch.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2518,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-sketch.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-sketch.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/applications\/icon-application-sublime.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1740,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-sublime.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/applications\/icon-application-sublime.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/projects\/newscycle-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38582,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/projects\/newscycle-icon.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/projects\/newscycle-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/projects\/okmyoutfit-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 20407,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/projects\/okmyoutfit-icon.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/projects\/okmyoutfit-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/projects\/trail-brief-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 32655,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/projects\/trail-brief-icon.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/projects\/trail-brief-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/social\/icon-social-dribbble.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3601,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/social\/icon-social-dribbble.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/social\/icon-social-dribbble.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/icons\/social\/icon-social-linkedin.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1855,
-		"inputAbbreviatedPath": "\/assets\/images\/icons\/social\/icon-social-linkedin.png",
-		"outputAbbreviatedPath": "\/assets\/images\/icons\/social\/icon-social-linkedin.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/newscycle\/newscycle-article.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 149207,
-		"inputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-article.png",
-		"outputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-article.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/newscycle\/newscycle-feed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 240049,
-		"inputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-feed.png",
-		"outputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-feed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/newscycle\/newscycle-loading.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 73963,
-		"inputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-loading.png",
-		"outputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-loading.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/newscycle\/newscycle-source-profile.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 52543,
-		"inputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-source-profile.png",
-		"outputAbbreviatedPath": "\/assets\/images\/newscycle\/newscycle-source-profile.png",
+		"initialSize": 172021,
+		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-appointment.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-appointment.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -268,106 +61,9 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 624485,
+		"initialSize": 559529,
 		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page.png",
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 266133,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 584982,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1@2x.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/00-01-a-home copy-1@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29969,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer.png",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 107777,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer@2x.png",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/computer@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/HYPE-466.full.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/HYPE-466.full.min.js",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/min\/HYPE-466.full.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/HYPE-466.thin.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/HYPE-466.thin.min.js",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/min\/HYPE-466.thin.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/okmyoutfithomepage_hype_generated_script.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/okmyoutfithomepage_hype_generated_script.js",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-home-page\/okmyoutfit-home-page.hyperesources\/min\/okmyoutfithomepage_hype_generated_script-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-question-colors.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 31660,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-question-colors.png",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-question-colors.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -376,7 +72,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 37051,
+		"initialSize": 31890,
 		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-question-original.png",
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-question-original.png",
 		"outputPathIsOutsideProject": 0,
@@ -387,20 +83,9 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 30512,
+		"initialSize": 25655,
 		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-question-redesign.png",
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-question-redesign.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/okmyoutfit\/okmyoutfit-style-assessment.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 44640,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-style-assessment.png",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-style-assessment.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -409,232 +94,188 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 60886,
+		"initialSize": 35473,
 		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-user-journey.png",
 		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/okmyoutfit-user-journey.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/okmyoutfit\/title-okmyoutfit.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-account-sign-up.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 705439,
-		"inputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/title-okmyoutfit.png",
-		"outputAbbreviatedPath": "\/assets\/images\/okmyoutfit\/title-okmyoutfit.png",
+		"initialSize": 149951,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-account-sign-up.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-account-sign-up.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/projects\/project-apple-tv-4.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-meals.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 167246,
-		"inputAbbreviatedPath": "\/assets\/images\/projects\/project-apple-tv-4.png",
-		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-apple-tv-4.png",
+		"initialSize": 650128,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-meals.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-meals.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/projects\/project-newscycle.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-orders.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.07407e+06,
-		"inputAbbreviatedPath": "\/assets\/images\/projects\/project-newscycle.png",
-		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-newscycle.png",
+		"initialSize": 445010,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-orders.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-orders.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/projects\/project-okmyoutfit.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 234326,
-		"inputAbbreviatedPath": "\/assets\/images\/projects\/project-okmyoutfit.png",
-		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-okmyoutfit.png",
+		"initialSize": 91722,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/projects\/project-trail-brief.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 903186,
-		"inputAbbreviatedPath": "\/assets\/images\/projects\/project-trail-brief.png",
-		"outputAbbreviatedPath": "\/assets\/images\/projects\/project-trail-brief.png",
+		"initialSize": 86476,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/sketches\/sketches-sketch-1.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-3.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 95202,
-		"inputAbbreviatedPath": "\/assets\/images\/sketches\/sketches-sketch-1.png",
-		"outputAbbreviatedPath": "\/assets\/images\/sketches\/sketches-sketch-1.png",
+		"initialSize": 73425,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-3.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/tools\/tools-illustrator-icons.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6888,
-		"inputAbbreviatedPath": "\/assets\/images\/tools\/tools-illustrator-icons.png",
-		"outputAbbreviatedPath": "\/assets\/images\/tools\/tools-illustrator-icons.png",
+		"initialSize": 81916,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-4.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-meal-module-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/tools\/tools-omnigraffle-paragon.png": {
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-mini-cal.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 314425,
-		"inputAbbreviatedPath": "\/assets\/images\/tools\/tools-omnigraffle-paragon.png",
-		"outputAbbreviatedPath": "\/assets\/images\/tools\/tools-omnigraffle-paragon.png",
+		"initialSize": 44627,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mini-cal.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mini-cal.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/tools\/tools-photoshop.png": {
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-account-sign-up.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 441177,
-		"inputAbbreviatedPath": "\/assets\/images\/tools\/tools-photoshop.png",
-		"outputAbbreviatedPath": "\/assets\/images\/tools\/tools-photoshop.png",
+		"initialSize": 67484,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-account-sign-up.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-account-sign-up.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/tools\/tools-pop-news-wallet.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-meals.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 338066,
-		"inputAbbreviatedPath": "\/assets\/images\/tools\/tools-pop-news-wallet.png",
-		"outputAbbreviatedPath": "\/assets\/images\/tools\/tools-pop-news-wallet.png",
+		"initialSize": 180357,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-meals.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-meals.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/tools\/tools-sketch-newscycle.png": {
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-menu.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 214342,
-		"inputAbbreviatedPath": "\/assets\/images\/tools\/tools-sketch-newscycle.png",
-		"outputAbbreviatedPath": "\/assets\/images\/tools\/tools-sketch-newscycle.png",
+		"initialSize": 45930,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-menu.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-menu.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/trail-brief\/trail-brief-iteration-annotation.png": {
-		"fileType": 32768,
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-my-umi-kitchen.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 20817,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-iteration-annotation.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-iteration-annotation.png",
+		"initialSize": 213542,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-my-umi-kitchen.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-mobile-my-umi-kitchen.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/trail-brief\/trail-brief-mock-up-landing.png": {
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-modal.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 342908,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-mock-up-landing.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-mock-up-landing.png",
+		"initialSize": 59570,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-modal.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-modal.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/trail-brief\/trail-brief-persona-megan.png": {
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-progress-bar.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 169058,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-persona-megan.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-persona-megan.png",
+		"initialSize": 23039,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-progress-bar.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-progress-bar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/trail-brief\/trail-brief-task-analysis-1.png": {
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-tagging-system-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 586191,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-1.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-1.png",
+		"initialSize": 45877,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-tagging-system-1.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-tagging-system-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/images\/trail-brief\/trail-brief-task-analysis-2.png": {
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-tagging-system-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 221918,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-2.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-2.png",
+		"initialSize": 73544,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-tagging-system-2.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-tagging-system-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
-		},
-	"\/assets\/images\/trail-brief\/trail-brief-task-analysis-3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 167730,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-3.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-task-analysis-3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/trail-brief\/trail-brief-tip-iteration-screen.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79799,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-tip-iteration-screen.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-tip-iteration-screen.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/trail-brief\/trail-brief-wireframes.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 157140,
-		"inputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-wireframes.png",
-		"outputAbbreviatedPath": "\/assets\/images\/trail-brief\/trail-brief-wireframes.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/js\/hamburgler.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/hamburgler.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/hamburgler-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
 		},
 	"\/assets\/styles\/base\/_base.scss": {
 		"createSourceMap": 0,
@@ -661,22 +302,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/styles\/base\/_buttons.scss",
 		"outputAbbreviatedPath": "\/assets\/styles\/css\/_buttons.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/assets\/styles\/base\/_fonts.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/base\/_fonts.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_fonts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -780,6 +405,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/styles\/components\/_background-images.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/styles\/components\/_background-images.scss",
+		"outputAbbreviatedPath": "\/assets\/styles\/css\/_background-images.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/styles\/components\/_components.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -796,15 +437,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/assets\/styles\/components\/_f-footer.scss": {
+	"\/assets\/styles\/components\/_footer.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_f-footer.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_f-footer.css",
+		"inputAbbreviatedPath": "\/assets\/styles\/components\/_footer.scss",
+		"outputAbbreviatedPath": "\/assets\/styles\/css\/_footer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -812,15 +453,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/assets\/styles\/components\/_featherlight.gallery.scss": {
+	"\/assets\/styles\/components\/_html-elements.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_featherlight.gallery.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_featherlight.gallery.css",
+		"inputAbbreviatedPath": "\/assets\/styles\/components\/_html-elements.scss",
+		"outputAbbreviatedPath": "\/assets\/styles\/css\/_html-elements.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -828,15 +469,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/assets\/styles\/components\/_featherlight.scss": {
+	"\/assets\/styles\/components\/_images.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_featherlight.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_featherlight.css",
+		"inputAbbreviatedPath": "\/assets\/styles\/components\/_images.scss",
+		"outputAbbreviatedPath": "\/assets\/styles\/css\/_images.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -844,15 +485,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/assets\/styles\/components\/_g-grid-boxes.scss": {
+	"\/assets\/styles\/components\/_links.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_g-grid-boxes.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_g-grid-boxes.css",
+		"inputAbbreviatedPath": "\/assets\/styles\/components\/_links.scss",
+		"outputAbbreviatedPath": "\/assets\/styles\/css\/_links.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -860,110 +501,21 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/assets\/styles\/components\/_header.scss": {
+	"\/assets\/styles\/components\/_sections.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_header.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_header.css",
+		"inputAbbreviatedPath": "\/assets\/styles\/components\/_sections.scss",
+		"outputAbbreviatedPath": "\/assets\/styles\/css\/_sections.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/assets\/styles\/components\/_i-images.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_i-images.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_i-images.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/assets\/styles\/components\/_l-lines.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_l-lines.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_l-lines.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/assets\/styles\/components\/_p-project-elements.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_p-project-elements.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_p-project-elements.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/assets\/styles\/components\/_u-utilities.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_u-utilities.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_u-utilities.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/assets\/styles\/components\/_w-wrapers.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/components\/_w-wrapers.scss",
-		"outputAbbreviatedPath": "\/assets\/styles\/css\/_w-wrapers.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/assets\/styles\/hamburgler.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/styles\/hamburgler.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/styles\/library\/_library.scss": {
 		"createSourceMap": 0,
@@ -2575,7 +2127,7 @@
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/styles\/styles.scss": {
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
@@ -2599,47 +2151,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/newscycle\/index.html": {
+	"\/okmyoutfit.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/newscycle\/index.html",
+		"inputAbbreviatedPath": "\/okmyoutfit.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/newscycle\/prototype.html": {
+	"\/trail-brief.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/newscycle\/prototype.html",
+		"inputAbbreviatedPath": "\/trail-brief.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/okmyoutfit\/index.html": {
+	"\/umi-kitchen.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/okmyoutfit\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/trail-brief\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/trail-brief\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/trail-brief\/prototype.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/trail-brief\/prototype.html",
+		"inputAbbreviatedPath": "\/umi-kitchen.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2647,14 +2181,14 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "chuckflores",
+"lastSavedByUser": "Chuck",
 "manualImportLinks": {
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "chuckflores",
-	"displayValueWasSetByUser": 1,
-	"iconImageName": "globe_darkGray"
+	"displayValue": "chuck-flores-site",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_gray"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
@@ -2747,8 +2281,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -2757,6 +2299,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {

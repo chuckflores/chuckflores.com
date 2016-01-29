@@ -1,43 +1,38 @@
 // Typography
-$base-font-family: "neuzeit-grotesk","Futura","Trebuchet MS","Arial",sans-serif;
+$base-font-family: "hypatia-sans-pro",sans-serif;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
-$base-font-size: 0.84em;
+$base-font-size: 1em;
 
 // Line height
 $base-line-height: 1.5;
-$heading-line-height: 1.2;
+$heading-line-height: 0;
 
 // Other Sizes
-$base-border-radius: 0px;
+$base-border-radius: 3px;
 $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$blue: #0634A8;
-$dark-gray: #00171F;
-$medium-gray: #25393F;
-$light-gray: #F3F5F8;
-$white: #FFFFFF;
-$dark-teal: #25393F;
-
-// Personal Brand Colors
-$chuck-flores-orange: #FB7917;
-$chuck-flores-cream: #FDF9F2;
-$chuck-flores-dark-grey: #464646;
+$blue: #477dca;
+$dark-gray: #282828;
+$medium-gray: #E9E6E5;
+$light-gray: #F6F5F5;
+$orange: #F86E41;
+$white: #F6F5F5;
 
 // Font Colors
-$base-font-color: $blue;
-$action-color: $blue;
+$base-font-color: $dark-gray;
+$action-color: $orange;
 
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: $light-gray;
+$base-background-color: #fff;
 $secondary-background-color: tint($base-border-color, 75%);
 
 // Forms
@@ -47,6 +42,3 @@ $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $l
 // Animations
 $base-duration: 150ms;
 $base-timing: ease;
-
-// Header
-$header-height :86px;

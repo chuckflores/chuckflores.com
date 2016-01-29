@@ -1,0 +1,41 @@
+.img-home-laptop {
+  margin-top: 4em;
+  width: 100%;
+}
+
+
+.img-home-iphone {
+
+  margin-top: 4em;
+  width: 178px;
+}
+
+.square-logo {
+  position: fixed;
+  right: 24px;
+  top: 24px;
+  opacity: 1;
+  transition: opacity 0.4s ease-in-out;
+
+
+}
+.square-logo:hover {
+  opacity: 0.5;
+    // opacity: 0.6;
+  }
+
+.img-ui-elements {
+  padding-top: 2em;
+  padding-bottom:2em;
+}
+
+.img-umi-modal {
+  padding-top: 6em;
+}
+
+@media only screen and (max-width: 780px) {
+  .img-umi-modal {
+    padding-top: 1em;
+  }
+
+}
