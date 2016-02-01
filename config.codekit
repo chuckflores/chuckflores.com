@@ -2186,9 +2186,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "chuck-flores-site",
-	"displayValueWasSetByUser": 0,
-	"iconImageName": "harddrive_gray"
+	"displayValue": "chuck-flores",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "compass_darkGray"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
