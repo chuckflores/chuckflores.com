@@ -423,6 +423,14 @@ picture {
 .padding-bottom-2em {
   padding-bottom: 2em; }
 
+#umi-section-10 {
+  background-color: #E9E6E5;
+  text-align: center;
+  width: 100%;
+  padding-bottom: 5em; }
+  #umi-section-10 .details-list-container {
+    padding-top: 4em; }
+
 #okmyoutfit-section-3 {
   background-color: #F6F5F5;
   text-align: center;

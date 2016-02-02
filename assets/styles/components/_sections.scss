@@ -184,6 +184,17 @@
   padding-bottom: 2em;
 }
 
+#umi-section-10 {
+  background-color: $medium-gray;
+  text-align: center;
+  width: 100%;
+  padding-bottom: 5em;
+
+  .details-list-container {
+    padding-top: 4em;
+  }
+}
+
 // OkMyOutfit
 #okmyoutfit-section-3 {
   background-color: $light-gray;

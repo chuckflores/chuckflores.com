@@ -101,6 +101,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-app-home-before.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 926503,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-app-home-before.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-app-home-before.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/umi-kitchen\/umi-kitchen-app-home.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 827717,
+		"inputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-app-home.png",
+		"outputAbbreviatedPath": "\/assets\/images\/umi-kitchen\/umi-kitchen-app-home.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/umi-kitchen\/umi-kitchen-desktop-account-sign-up.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
